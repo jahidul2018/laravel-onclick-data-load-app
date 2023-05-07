@@ -69,4 +69,4 @@ add data [rource](https://www.tutsmake.com/laravel-8-factory-generate-dummy-data
 
 ## reference
 
-Load More Data on Button Click using JQuery Laravel 10[itsolutionstuff.com](https://www.itsolutionstuff.com/post/load-more-data-on-button-click-using-jquery-laravel-10example.html)
+Load More Data on Button Click using JQuery Laravel 10 [itsolutionstuff.com](https://www.itsolutionstuff.com/post/load-more-data-on-button-click-using-jquery-laravel-10example.html)
